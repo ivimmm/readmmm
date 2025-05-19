@@ -1,0 +1,24 @@
+https://www.tutorialspoint.com/compilers/online-matplotlib-compiler.htm
+
+
+
+Interpolaci ́on Lineal: Teor ́ıa y Aplicaciones
+
+La interpolaci ́on lineal es un m ́etodo num ́erico que permite estimar un valor
+desconocido dentro de un intervalo utilizando una l ́ınea recta que conecta dos
+puntos conocidos. Es el caso m ́as simple de interpolaci ́on polinomial, donde se
+usa un polinomio de grado 1.
+
+5. Aplicaciones
+
+-Estimaci ́on de datos entre mediciones discretas (ej. temperatura, precios
+de acciones).
+-Gr ́aficos por computadora (suavizado de l ́ıneas).
+-C ́alculo num ́erico en tablas de datos.
+
+6. Limitaciones
+
+-Solo es precisa para funciones aproximadamente lineales en el intervalo.
+-No captura curvaturas (para ello se usan interpolaciones de mayor grado
+como cuadr ́atica o c ́ubica).
+-El error puede ser significativo si los puntos est ́an muy separados.
